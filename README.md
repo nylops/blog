@@ -1,1 +1,2 @@
-It is a personal blog
+Daily logs
+
